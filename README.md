@@ -97,10 +97,8 @@ This project is optimized for **Vercel** (zero-config Vite support). Simply impo
 ## Contact
 
 - **Email:** [israeltubo@gmail.com](mailto:israeltubo@gmail.com)
-- **GitHub:** [@Tuborrr-Dev](https://github.com/Tuborrr-Dev)
 - **LinkedIn:** [Adetubo Israel](https://www.linkedin.com/in/adetubo-israel/)
 - **X / Twitter:** [@Tuborrr](https://x.com/Tuborrr)
-- **Medium:** [Israel Adetubo](https://medium.com/@israeltubo/e047b9393f67)
 - **CV:** [Review My CV](https://drive.google.com/file/d/10a5QrAhx1kuBttTu2hNkC8HXMlOPf4jZ/view?usp=drive_link)
 
 ---
