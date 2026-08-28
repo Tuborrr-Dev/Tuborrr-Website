@@ -36,10 +36,10 @@ export const DualSolutions: React.FC = () => {
           </span>
 
           {/* Titles */}
-          <h3 className="text-3xl sm:text-5xl lg:text-[54px] font-bold tracking-tight text-neutral-900 dark:text-white mb-2 leading-tight whitespace-nowrap">
+          <h3 className="text-3xl sm:text-5xl lg:text-[54px] font-bold tracking-tight text-neutral-900 dark:text-white mb-2 leading-tight sm:whitespace-nowrap">
             For Startups
           </h3>
-          <p className="text-2xl sm:text-4xl lg:text-[40px] font-normal text-neutral-700 dark:text-neutral-200 mb-8 tracking-tight whitespace-nowrap">
+          <p className="text-2xl sm:text-4xl lg:text-[40px] font-normal text-neutral-700 dark:text-neutral-200 mb-8 tracking-tight sm:whitespace-nowrap">
             Achieve new heights
           </p>
 
@@ -69,10 +69,10 @@ export const DualSolutions: React.FC = () => {
           </span>
 
           {/* Titles */}
-          <h3 className="text-3xl sm:text-5xl lg:text-[54px] font-bold tracking-tight text-neutral-900 dark:text-white mb-2 leading-tight whitespace-nowrap">
+          <h3 className="text-3xl sm:text-5xl lg:text-[54px] font-bold tracking-tight text-neutral-900 dark:text-white mb-2 leading-tight sm:whitespace-nowrap">
             For Companies
           </h3>
-          <p className="text-2xl sm:text-4xl lg:text-[40px] font-normal text-neutral-700 dark:text-neutral-200 mb-8 tracking-tight whitespace-nowrap">
+          <p className="text-2xl sm:text-4xl lg:text-[40px] font-normal text-neutral-700 dark:text-neutral-200 mb-8 tracking-tight sm:whitespace-nowrap">
             Scale with new might
           </p>
 
