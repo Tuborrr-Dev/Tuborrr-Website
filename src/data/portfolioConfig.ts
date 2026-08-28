@@ -270,7 +270,7 @@ export const projectItems: ProjectItem[] = [
     metrics: [
       { label: "LLM Model", value: "Llama 3.3 70B" },
       { label: "Protocol", value: "Live SSE" },
-      { label: "Stack", value: "FastAPI+Redis" }
+      { label: "Stack", value: "FastAPI + Redis" }
     ],
     demoUrl: "https://pitchline-five.vercel.app/",
     githubUrl: "https://github.com/Tuborrr-Dev"

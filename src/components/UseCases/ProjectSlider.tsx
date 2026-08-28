@@ -71,7 +71,7 @@ export const ProjectSlider: React.FC = () => {
           {filteredProjects.map((project) => (
             <div
               key={project.id}
-              className="w-[320px] sm:w-[380px] shrink-0 snap-start"
+              className="w-[82vw] xs:w-[320px] sm:w-[380px] max-w-[380px] shrink-0 snap-start"
             >
               <ProjectCard
                 project={project}
